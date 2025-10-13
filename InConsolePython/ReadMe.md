@@ -1,6 +1,6 @@
 
-Lupa: https://pypi.org/project/lupa/
-Py-Lua Py-Lua: https://pypi.org/project/py-lua/)
+Lupa: https://pypi.org/project/lupa/  
+Py-Lua Py-Lua: https://pypi.org/project/py-lua/  
 
 ---
 
